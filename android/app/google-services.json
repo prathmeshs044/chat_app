@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "620087727204",
+    "firebase_url": "https://chit-chat-4f188.firebaseio.com",
+    "project_id": "chit-chat-4f188",
+    "storage_bucket": "chit-chat-4f188.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620087727204:android:b33c877ea8ba18630ffb71",
+        "android_client_info": {
+          "package_name": "com.prathmesh.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620087727204-ldohcf8l7p93gt0r2cev8f4g9tm0a61p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-oD5JZRgZjayCeushUE1ncYf4IWmB0wQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620087727204-ldohcf8l7p93gt0r2cev8f4g9tm0a61p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
